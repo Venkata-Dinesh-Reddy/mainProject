@@ -1,0 +1,13 @@
+intsall git
+setup git 
+Create and clone repository to local system
+
+setup nodejs
+npm install -g npm
+
+creating react app
+npx create-react-app myapp
+
+starting development server
+cd myapp
+npm start
